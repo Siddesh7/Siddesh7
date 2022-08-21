@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Siddesh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer with great interest towards building Web 3 applications from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddesh7&label=Profile%20views&color=0e75b6&style=flat" alt="siddesh7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/websidyn" target="blank"><img src="https://img.shields.io/twitter/follow/websidyn?logo=twitter&style=for-the-badge" alt="websidyn" /></a> </p>
+
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate on **Web3 Projects**
+
+- 📝 I regularly write articles on [https://c4crypto.in](https://c4crypto.in)
+
+- 💬 Ask me about **Web3, NFT and Blockchain**
+
+- 📫 How to reach me **siddesh@websidyn.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/18bV0stByk7w4fZQzIbARSciSFrxaDhbL/view?usp=sharing](https://drive.google.com/file/d/18bV0stByk7w4fZQzIbARSciSFrxaDhbL/view?usp=sharing)
+
+- ⚡ Fun fact **I used to be a Bio Student🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
