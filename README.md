@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
-- 📝 I regularly write articles on [https://c4crypto.in](https://c4crypto.in)
+- 📝 I regularly write articles on [https://c4crypto.in](https://c4crypto.in) (Website down currently)
 
 - 💬 Ask me about **Web3, NFT and Blockchain**
 
