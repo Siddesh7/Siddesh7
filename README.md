@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siddesh@websidyn.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18bV0stByk7w4fZQzIbARSciSFrxaDhbL/view?usp=sharing](https://drive.google.com/file/d/18bV0stByk7w4fZQzIbARSciSFrxaDhbL/view?usp=sharing)
+- 📄 Know about my experiences [Click here!](https://drive.google.com/file/d/1WfWRhfxRW6lF_4sn2R-ikxTFAwwPK6CE/view?usp=sharing)
 
 - ⚡ Fun fact **I used to be a Bio Student🤣**
 
