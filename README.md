@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddesh7&label=Profile%20views&color=0e75b6&style=flat" alt="siddesh7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/websidyn" target="blank"><img src="https://img.shields.io/twitter/follow/websidyn?logo=twitter&style=for-the-badge" alt="websidyn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xsiddesh" target="blank"><img src="https://img.shields.io/twitter/follow/0xsiddesh?logo=twitter&style=for-the-badge" alt="0xSiddesh" /></a> </p>
 
 - 🌱 I’m currently learning **MERN and Smart Contract Development**
 
