@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
-- 📝 I regularly write articles on [https://c4crypto.in](https://c4crypto.in) (Website down currently)
+- 📝 I regularly write articles on [https://c4crypto.in](https://c4crypto.in)
 
 - 💬 Ask me about **Web3, NFT and Blockchain**
 
 - 📫 How to reach me **siddesh@websidyn.com**
 
-- 📄 Know about my experiences [Click here!](https://drive.google.com/file/d/1WfWRhfxRW6lF_4sn2R-ikxTFAwwPK6CE/view?usp=sharing)
+- 📄 Know about my experiences [Click here!](https://drive.google.com/file/d/1WdBfyOVu0Pq_-vpfFsbhzFVSHgivy4Vw/view?usp=sharing)
 
 - ⚡ Fun fact **I used to be a Bio Student🤣**
 
