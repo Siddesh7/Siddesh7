@@ -9,6 +9,5 @@
 
 - 📫 How to reach me **sankhya@siddesh.xyz**
 
-- 📄 Know about my experiences [Click here!](https://drive.google.com/file/d/1lfRUZ9ngsK3iHHg44Xz_RgJGViKVbjHV/view?usp=sharing)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddesh7&show_icons=true&locale=en&layout=compact" alt="siddesh7" /></p>
